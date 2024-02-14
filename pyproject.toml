@@ -14,9 +14,9 @@ classifiers = [
 ]
 
 dependencies = [
-    "gymnasium",  # Required by ray
+    #"gymnasium",  # Required by ray
     "numpy",
-    "ray[rllib, tune]",
+    #"ray[rllib, tune]",
 ]
 
 [project.urls]
